@@ -155,6 +155,10 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="9012.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="Parentheses.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

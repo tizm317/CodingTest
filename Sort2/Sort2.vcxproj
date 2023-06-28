@@ -139,7 +139,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10814.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="10825.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="10825_1.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="11652.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="11656.cpp">
       <SubType>
       </SubType>
     </ClCompile>
